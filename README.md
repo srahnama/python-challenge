@@ -1,11 +1,11 @@
 # Python Challenges
 website : [Python Challenges](http://www.pythonchallenge.com/)
 
-* challenge 0 ✅ 
-* challenge 1 ✅ 
-* challenge 2 ✅ 
-* challenge 3 ✅ 
-* challenge 4
+* challenge 0  ✅ 
+* challenge 1  ✅ 
+* challenge 2  ✅ 
+* challenge 3  ✅ 
+* challenge 4  ✅ 
 * challenge 5
 * challenge 6
 * challenge 7
