@@ -7,7 +7,7 @@ website : [Python Challenges](http://www.pythonchallenge.com/)
 * challenge 3  ✅ 
 * challenge 4  ✅ 
 * challenge 5  ✅    
-* challenge 6
+* challenge 6  ✅
 * challenge 7
 * challenge 8
 * challenge 9
